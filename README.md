@@ -1,6 +1,6 @@
 Steps to Run the Project
 1.Clone the repository:
-  git clone https://github.com/TharakBale/checklist-system.git
+    git clone https://github.com/TharakBale/checklist-system.git
   
 2.Navigate to the project directory:
   cd checklist-system
